@@ -1,7 +1,7 @@
 package com.student.management.controller;
 
 import com.student.management.model.Student;
-import com.student.management.model.student;
+
 import com.student.management.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
