@@ -10,7 +10,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/students")
-@CrossOrigin("*")
+@CrossOrigin("https://studentms1.vercel.app")
 public class StudentController {
 
     @Autowired
