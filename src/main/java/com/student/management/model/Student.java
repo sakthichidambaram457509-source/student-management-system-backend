@@ -30,7 +30,7 @@ public class Student {
     // Parameterized Constructor
     public Student(Long id, String name, String department,
                    String email, String phone, String roll,String course,String section,
-                   int grade,String status) {
+                   Integer grade,String status) {
         this.id = id;
         this.name = name;
         this.department = department;
